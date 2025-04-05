@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nexaimmo-e7519",
+  "private_key_id": "bd4e05e45f965e0a2142b395ae6d82623ed201cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIuCDzWRHX21MU\nleXFvfcfGcJ2Lf9l9rPsK622XdZcatwQfgJW2Zkn5YPbfB6+mH0AboGKAnSZD0Ii\nmh47/qUx2VF2FfO94Hdw66PzVxFrTy8UFRUxsUa6GTFcTDAxAmjhJl6DZGWej45h\neM/COcOQq3QGMVhfZnXWuCSlr5iHOK8Ug8SyG1L2TK0O66S+M9pm3ngh8IW70/Gh\ni9kMdxljvBvFjzxWafFlp3xQL17JxXgApj54v0xYVypZw78uJT2zVF40Gzp58m6A\n1PSLIGA6s+QqB09r0p3+fWhful1GEuquyN97uCUcBElMdrHU0CrMEqjFEvm96Giv\nWRVlMRV7AgMBAAECggEADiKCq4W9DxrntbOSppi97jJAXVXYPk7KaoTEQGtI8mF8\nwCqSMUSJ7Q3UJHY6rLMMsSWXDhLQhuDUsvQbJ0rDnl2OnNwR5Jq0k+lRi+GN8qUf\ntxsppBdhrYRNqLwddANr7a29NSUyT3a45kioNNDK4rANmna0zE8TracdFDqSlAm8\nFLWrL/Tuudurdy/qE7NmMxofGfSWs+LmXrGW5TBXDB+qbeFMa4uXRGGoXQ7nNoTR\nVTYf4g/6iPiHpa6kcLojBKU7jPtUrFBPVzdtBb7DiZanA1e6m9DJyigCMXWGebL/\nR4S86Yi6IohJrFOaq2gv/A+OApom531J2Gln3yAH7QKBgQDqgJ8RTfcGC2CMjhZI\ngO+QKtw6/dk3lICZDToXrRr1BOwKGbRM10wCIjB9tjQtEZlkONO5JKGdaoqQXtFW\n++HVlS8b2YdLfhOsOSLhIYuuHwqUlr+8B21NCa3DoIfkJwawknuNtpto0FuJoknr\n1LY1EJ7G+EMrj0t2VfPYR4feVQKBgQDbHqxENusettCT5+Iv0g4hNv1Mzomgwg0s\nIlBRRaojJI7mIBjSllSJOrRw3+6DgQP40iRZ7DhsYLf/UfPxsYYo3fs9VMmz0V9U\nAXKM3LgdnZ/nNcqKm2iVRRFfrh52K0Cli2DZM54p6ovF6G7bJu24S6SUg20WlISY\nd/aulfhUjwKBgCql78gG5OktgoathLH0+RzAHsN/zVSFZonvVORfcCqllYQUvqzG\n7yToMOd8DqsvqzUF/MOMPPRTHxY4mFv4fU8JzcKD4k5BhLRqw8QsBKpLLPJvJDm/\nJArBut98P5qn2licm2nfjw4V7r/uSwFf8y9dcXMATb8LVY8U/L8V60jtAoGAKASN\nD5Q8EoruwuRpkbQ6MmS5lApwZjSqdTH7Gyyu6uYlVu/ruKIN5FYdWDP9enTYhdvT\nGb0jfN+ZGv8bnzt9tf78gHH4uGd3kn8FLaat1XLRHkfbqr7BNem8R44kMA6sKs+u\nq1xa+WrFhipx/II6jhr6fskV5jbPlIzsN2xaQw8CgYEAnthsJdFFqtKZBj1WQzuI\n5OduSSBTqSNamEB/blzDwCOjK+OfVl/SJk2VKsc7xMvBGlgmEpsWtaKoRUwcARUf\n/u/IWn/yHgaatkLWU01Uyptem97jGiCMG4doCCWnreYiE1RrAFMIVAo+GxxqvA2A\nnR27eQ/rzB6xT0OWx7qfdKQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@nexaimmo-e7519.iam.gserviceaccount.com",
+  "client_id": "114554782970391147511",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40nexaimmo-e7519.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
