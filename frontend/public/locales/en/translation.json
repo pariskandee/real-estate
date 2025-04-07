@@ -1,0 +1,50 @@
+{
+  "properties": {
+    "title": "Properties",
+    "description": "Description",
+    "price": "Price",
+    "propertyType": "Property Type",
+    "transactionType": "Transaction Type",
+    "rooms": "Rooms",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "surface": "Surface",
+    "dpe": "Energy Rating",
+    "features": "Features",
+    "images": "Images",
+    "contact": "Contact",
+    "addTitle": "Add New Property",
+    "propertyTypes": {
+      "house": "House",
+      "apartment": "Apartment",
+      "land": "Land",
+      "commercial": "Commercial"
+    }
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "search": "Search properties...",
+    "confirmDelete": "Are you sure you want to delete this property?"
+  },
+  "auth": {
+    "required": "Authentication Required",
+    "loginToAdd": "Please login to add a new property."
+  },
+   "navbar": {
+   "appName": "Real Estate",
+  "login": "Login",
+  "logout": "Logout",
+  "addProperty": "Add Property",
+  "adminPanel": "Admin Panel"  
+ },
+ "appName": "NEXA Real Estate",
+  "form": {
+    "uploadImages": "Upload Images"
+  },
+  "errors": {
+    "maxImages": "Maximum 3 images allowed",
+    "invalidImage": "Only image files under 5MB are allowed"
+  }
+
+ 
+ }

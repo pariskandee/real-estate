@@ -1,0 +1,50 @@
+{
+  "properties": {
+    "title": "Propriétés",
+    "description": "Description",
+    "price": "Prix",
+    "propertyType": "Type de propriété",
+    "transactionType": "Type de transaction",
+    "rooms": "Pièces",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de bain",
+    "surface": "Surface",
+    "dpe": "Diagnostic de performance énergétique",
+    "features": "Caractéristiques",
+    "images": "Images",
+    "contact": "Contact",
+    "addTitle": "Ajouter une nouvelle propriété",
+    "propertyTypes": {
+      "house": "Maison",
+      "apartment": "Appartement",
+      "land": "Terrain",
+      "commercial": "Commercial"
+    }
+  },
+  "admin": {
+    "title": "Panneau d'administration",
+    "search": "Rechercher des propriétés...",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer cette propriété ?"
+  },
+    "auth": {
+    "required": "Authentification Requise",
+    "loginToAdd": "Veuillez vous connecter pour ajouter une nouvelle propriété."
+  },
+
+   "navbar": {
+   "appName": "Immobilier",
+  "login": "Connexion",
+  "logout": "Déconnexion",
+  "addProperty": "Ajouter une propriété",
+  "adminPanel": "Panneau d'administration"
+   },
+
+  "appName": "NEXA Immobilier",
+  "form": {
+    "uploadImages": "Télécharger des images"
+  },
+  "errors": {
+    "maxImages": "Maximum 3 images autorisées",
+    "invalidImage": "Seules les images de moins de 5MB sont autorisées"
+  }
+}
